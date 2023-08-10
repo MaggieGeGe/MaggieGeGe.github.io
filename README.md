@@ -1,5 +1,6 @@
 # MaggieGeGe.github.io
 If you want know me more, click this project.
+Or visit this site: https://maggiegege.github.io/
 
 
 This is my resume. You can think of it as a simple summary of my long life. But I am much more than that.
